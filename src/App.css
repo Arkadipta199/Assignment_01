@@ -1,0 +1,17 @@
+.app {
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.popular_card {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 40px;
+ color: rgb(46, 50, 53);
+  text-align: center;
+}
+ .main_items{ 
+
+ }
